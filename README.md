@@ -1,1 +1,1 @@
-# chess.ai
+# chess.ai help people play chess easily
